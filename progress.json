@@ -284,5 +284,14 @@
       "Your fork was not from git-mastery/gm-shapes. Remember to fork it from https://github.com/git-mastery/gm-shapes and keep the name as gm-shapes"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1786991534.473909,
+    "completed_at": 1786991541.063806,
+    "comments": [
+      "Your fork was not from git-mastery/gm-shapes. Remember to fork it from https://github.com/git-mastery/gm-shapes and keep the name as gm-shapes"
+    ],
+    "status": "Incomplete"
   }
 ]
