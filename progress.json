@@ -104,5 +104,14 @@
       "Great work creating a fork with Github!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1786988714.910686,
+    "completed_at": 1786988720.754015,
+    "comments": [
+      "Your Github CLI is not setup correctly"
+    ],
+    "status": "Incomplete"
   }
 ]
